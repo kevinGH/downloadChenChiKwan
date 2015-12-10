@@ -1,0 +1,6 @@
+c:\users\kevin\documents\visual studio 2012\Projects\downloadChenChiKwan\downloadChenChiKwan\bin\Debug\downloadChenChiKwan.exe.config
+c:\users\kevin\documents\visual studio 2012\Projects\downloadChenChiKwan\downloadChenChiKwan\obj\Debug\downloadChenChiKwan.csprojResolveAssemblyReference.cache
+c:\users\kevin\documents\visual studio 2012\Projects\downloadChenChiKwan\downloadChenChiKwan\bin\Debug\downloadChenChiKwan.exe
+c:\users\kevin\documents\visual studio 2012\Projects\downloadChenChiKwan\downloadChenChiKwan\bin\Debug\downloadChenChiKwan.pdb
+c:\users\kevin\documents\visual studio 2012\Projects\downloadChenChiKwan\downloadChenChiKwan\obj\Debug\downloadChenChiKwan.exe
+c:\users\kevin\documents\visual studio 2012\Projects\downloadChenChiKwan\downloadChenChiKwan\obj\Debug\downloadChenChiKwan.pdb
